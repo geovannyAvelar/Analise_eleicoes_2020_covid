@@ -1,1 +1,3 @@
-# Analise_eleicoes_2020_covid
+# Análise eleições 2020 e COVID-19
+
+Esse é um trabalho feito para a disciplina de Estrutura de dados do curso de Análise e desenvolvimento de sistemas da Faculdade de Tecnologia de São José dos Campos. É uma pequena análise exploratória sem rigor estatístico/científico utilizando dados de candidaturas vindos do TSE e da SEADE (Fundação sistema estadual de análise de dados). São analisadas candidaturas à reeleição de prefeitos no estado de São Paulo, ou seja, de candidatos que estão cumprindo o mandato em 2020, ano em que a pandemia do coronavírus atingiu o estado e o Brasil. A ideia é primeiramente analisar não apenas as candidaturas mas também como elas se relacionam com o combate vírus.
